@@ -51,8 +51,8 @@ Recopilamos datos de los usuarios: cantidad de minutos utilizados, mensajes envi
  El enfoque estadístico y analítico detallado ha brindado información valiosa sobre el comportamiento de los usuarios, los patrones de uso y las implicaciones financieras de los planes de servicio ofrecidos por "Megaline". En conclusión.  Los resultados pueden mejorar la satisfacción del cliente y optimizar las estrategias de precios en el futuro. Abren caminos para decisiones estratégicas.
 
 ### Visualizaciones destacadas
-1. **Duración de llamadas por plan tarifario:** Observación uso promedio de los dos tipos de usuarios.
+1. **Duración de llamadas por plan tarifario:** 
 ![User Box Chart](assets/img_Call Duration by tariff plan.png)
-2. **Grafica de dispersión** de los usuarios ultra y regular.
+2. **Distribución de Mensajes Totales** 
 ![Scatter Chart](assets/img_Distribution of Total Messages.png)
 
