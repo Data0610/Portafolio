@@ -53,8 +53,8 @@ Recopilamos datos de los usuarios: cantidad de minutos utilizados, mensajes envi
 
 ### Visualizaciones destacadas
 1. **Duración de llamadas por plan tarifario:**  
-![User Box Chart](assets/img_Call Duration by tariff plan.png)
+![User Box Chart](img_Call Duration by tariff plan.png)
 
 2. **Distribución de Mensajes Totales:**  
-![Scatter Chart](assets/img_Distribution of Total Messages.png)
+![Scatter Chart](img_Distribution of Total Messages.png)
 
