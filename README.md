@@ -19,8 +19,7 @@ Analizar datos | Descifrar enigmas | Comunicación eficiente | Organización | P
 
 # Proyectos seleccionados
 
-## Analisis Estadistico de datos
-### Conclusión general
+## Proyecto #1: Analisis Estadistico de datos
 
 En este análisis, procesamos y evaluamos el comportamiento de los usuarios, los cargos a los usuarios y los datos de ingresos relacionados con el servicio "Megaline", centrándonos especialmente en las diferentes tarifas (Surf y Ultimate) ofrecidas a los clientes. El estudio incluyó una exploración detallada del uso de mensajes, llamadas, datos de Internet, cargos financieros y pruebas de hipótesis estadísticas para extraer conclusiones significativas. A continuación, se presentan los hallazgos clave y las decisiones tomadas durante todo el proceso analítico:
 
@@ -50,11 +49,23 @@ Recopilamos datos de los usuarios: cantidad de minutos utilizados, mensajes envi
  La confiabilidad de los resultados de las pruebas estadísticas puede verse afectada por tamaños de muestra relativamente pequeños.  Continuar monitoreando y recopilando datos es esencial para garantizar conclusiones sólidas.
  El enfoque estadístico y analítico detallado ha brindado información valiosa sobre el comportamiento de los usuarios, los patrones de uso y las implicaciones financieras de los planes de servicio ofrecidos por "Megaline". En conclusión.  Los resultados pueden mejorar la satisfacción del cliente y optimizar las estrategias de precios en el futuro. Abren caminos para decisiones estratégicas.
 
-
 ### Visualizaciones destacadas
 1. **Duración de llamadas por plan tarifario:**  
 ![User Box Chart](img_Call Duration by tariff plan.png)
 
 2. **Distribución de Mensajes Totales:**  
 ![Scatter Chart](img_Distribution of Total Messages.png)
+
+
+## Proyecto #2. Analisis Estadistico de datos
+Procesamiento de datos: Mostraste un sólido entendimiento de cómo limpiar y preparar los datos, incluyendo la correcta conversión de tipos y el tratamiento de valores atípicos.
+Visualización: Los gráficos están bien diseñados y apoyan claramente tus conclusiones, proporcionando una perspectiva visual valiosa del análisis.
+Pruebas de hipótesis: La implementación de la prueba t para comparar las condiciones climáticas fue bien ejecutada y respaldada por una interpretación clara de los resultados.
+Conclusión final: Tus hallazgos sobre las ubicaciones principales y los patrones de concentración de viajes son sólidos y bien articulados, demostrando una comprensión profunda de los datos.
+
+1. **Gráfica: Compañías de Taxis y Número de Viajes:**  
+![User Box Chart](img_Gráfica Compañías de Taxis y Número de Viajes.png)
+
+
+## 3. Analisis Estadistico de datos 
 
