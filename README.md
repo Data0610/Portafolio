@@ -92,4 +92,5 @@ En marketing, se evalúan los gastos totales por fuente, el costo de adquisició
 Finalmente, se redacta una conclusión que recomienda qué fuentes o plataformas invertir más, justificando esas decisiones a partir de métricas como tasa de conversión, rentabilidad, y costo de adquisición. El informe se presenta en un Jupyter Notebook, combinando código en celdas y explicaciones en markdown, con un enfoque en interpretación de gráficos, cálculo de métricas y fundamentación de las recomendaciones.
 
 
-
+**Gracias por visitar mi portafolio. Sigo trabajando en nuevos proyectos, así que si te interesa ver más de mi trabajo, estaré encantado de que vuelvas a visitarlo.** 
+[![GitHub](https://img.shields.io/badge/github-%23295F98.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Data0610)
