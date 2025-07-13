@@ -51,7 +51,7 @@ También se prueba si la duración promedio de viajes del Loop a O'Hare varía e
 ![User Box Chart](img_Gráfica Compañías de Taxis y Número de Viajes.png)
 
 
-## 3. Analisis de Negocios:
+## Proyecto #3. Analisis de Negocios:
 
 ![User Box Chart](img_Analisis de gastos de Marketing.png)
 
